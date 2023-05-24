@@ -1,8 +1,7 @@
 # MFE Experiment Container
 
 This repo is a container for the micro front ends collected below.
-You can check them running *in the container* through here:
-- [MFE Container in GitHub Pages](https://codechriscode.github.io/mfe-chat)
+They are known to be broken as a way to express the hardships and conveniences of MFEs in my talk on the subject at Omega Energia.
 
 ## MFE Collection
 
